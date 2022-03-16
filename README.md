@@ -1,3 +1,7 @@
-# bmkg-gempa
-
-- Untuk melihat data gempa terkini yang terjadi di indonesia dari website bmkg
+```java
+class HelloWorld{
+    public static void main(String[] argumen){
+        System.out.println("Hello World!");
+    }
+}
+```
