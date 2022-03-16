@@ -1,6 +1,3 @@
 ```bash
-$ pkg install git
-```
-```bash
-$ pkg install python
+$ pkg install git\n$ pkg install python
 ```
