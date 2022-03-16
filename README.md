@@ -1,2 +1,4 @@
-`pkg install python`</br>
-`pkg install git`
+````bash
+pkg install git
+pkg install python
+```
